@@ -7,7 +7,7 @@ class GameViewModel : ViewModel() {
     // The current word
     var word = ""
 
-    // The current score
+    /// The current score
     var score = 0
 
     // The list of words - the front of the list is the next word to guess
